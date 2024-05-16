@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T12:47:46.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="tDDtbUb_hX4ZU2j3jCrH" version="24.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T13:15:18.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="2YXtJLmKfcIaJ1lo8TWt" version="24.4.1" type="github">
   <diagram name="Page-1" id="JIyZBihRIfkB0QtYxaRd">
-    <mxGraphModel dx="993" dy="448" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="421" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
             <mxPoint x="470" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QGsXIRogb_SLV1S0yjoC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.98;exitY=0.363;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QGsXIRogb_SLV1S0yjoC-3" target="QGsXIRogb_SLV1S0yjoC-13">
+        <mxCell id="QGsXIRogb_SLV1S0yjoC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.98;exitY=0.363;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QGsXIRogb_SLV1S0yjoC-3" target="QGsXIRogb_SLV1S0yjoC-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QGsXIRogb_SLV1S0yjoC-3" value="Manage patient " style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -32,6 +32,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="QGsXIRogb_SLV1S0yjoC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QGsXIRogb_SLV1S0yjoC-19" target="QGsXIRogb_SLV1S0yjoC-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="296" y="528" />
+              <mxPoint x="296" y="394" />
+              <mxPoint x="120" y="394" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QGsXIRogb_SLV1S0yjoC-5" value="Manage department" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="390" y="420" width="80" height="80" as="geometry" />
         </mxCell>
@@ -44,7 +53,10 @@
         <mxCell id="QGsXIRogb_SLV1S0yjoC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGsXIRogb_SLV1S0yjoC-7" target="QGsXIRogb_SLV1S0yjoC-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QGsXIRogb_SLV1S0yjoC-7" value="Login system" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="QGsXIRogb_SLV1S0yjoC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGsXIRogb_SLV1S0yjoC-7" target="QGsXIRogb_SLV1S0yjoC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGsXIRogb_SLV1S0yjoC-7" value="Manage hospital info" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="390" y="530" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QGsXIRogb_SLV1S0yjoC-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.057;exitY=0.269;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.959;entryY=0.262;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="QGsXIRogb_SLV1S0yjoC-7" target="QGsXIRogb_SLV1S0yjoC-7" parent="1">
@@ -68,6 +80,9 @@
         <mxCell id="QGsXIRogb_SLV1S0yjoC-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;2.0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="304" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QGsXIRogb_SLV1S0yjoC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QGsXIRogb_SLV1S0yjoC-16" target="QGsXIRogb_SLV1S0yjoC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QGsXIRogb_SLV1S0yjoC-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1.0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="208" width="60" height="30" as="geometry" />
         </mxCell>
@@ -79,6 +94,38 @@
         </mxCell>
         <mxCell id="QGsXIRogb_SLV1S0yjoC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.986;entryY=0.569;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QGsXIRogb_SLV1S0yjoC-13" target="QGsXIRogb_SLV1S0yjoC-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGsXIRogb_SLV1S0yjoC-29" value="Hospital Info" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="552" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QGsXIRogb_SLV1S0yjoC-30" value="Hospital Info" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="208" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QGsXIRogb_SLV1S0yjoC-33" value="Department list" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="584" y="432" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QGsXIRogb_SLV1S0yjoC-34" value="Doctor Info" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="492" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QGsXIRogb_SLV1S0yjoC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QGsXIRogb_SLV1S0yjoC-9" target="QGsXIRogb_SLV1S0yjoC-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="250" />
+              <mxPoint x="280" y="261" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGsXIRogb_SLV1S0yjoC-39" value="Patient details" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="208" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QGsXIRogb_SLV1S0yjoC-40" value="Appointment Info" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="152" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QGsXIRogb_SLV1S0yjoC-42" value="Patient details" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="584" y="208" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QGsXIRogb_SLV1S0yjoC-43" value="Hospital work schedule" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="184" y="402" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
